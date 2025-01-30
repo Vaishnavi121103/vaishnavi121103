@@ -13,10 +13,6 @@ I am a **Flutter Developer** with a strong background in **C++, Java, and Cybers
 - **Backend Development:** Flask (Python), Firebase
 - **Tools & Platforms:** GitHub, VS Code, Android Studio
 
-## 📫 Connect with Me
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
 
 🚀 Let's build something amazing together!
 
